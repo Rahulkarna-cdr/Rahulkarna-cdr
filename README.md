@@ -3,11 +3,23 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulkarna-cdr&label=Profile%20views&color=0e75b6&style=flat" alt="rahulkarna-cdr" /> </p>
 
-- 🌱 I’m currently learning **software engineering**
+-🌱 Currently Learning:
+Software Engineering, Full-Stack Development, and best practices in clean code and scalable architecture.
 
-- 💬 Ask me about **react, javascript, html, css, nodejs**
+💬 Ask Me About:
+Frontend development (React, HTML/CSS, JavaScript), Backend (Node.js), REST APIs, Git, and project structure.
 
-- 📫 How to reach me **rahulkarna889@gmail.com**
+🛠️ Tech I'm Exploring:
+TypeScript, MongoDB, Docker, and testing frameworks like Jest.
+
+🎯 Current Goals:
+Building real-world projects, contributing to open source, and improving problem-solving through DSA.
+
+📫 Reach Me At:
+rahulkarna889@gmail.com
+
+🤝 Open To:
+Collaborations, internships, freelance opportunities, and hackathons.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
