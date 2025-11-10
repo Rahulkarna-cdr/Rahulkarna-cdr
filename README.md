@@ -7,13 +7,13 @@
   Software Engineering, Full-Stack Development, and best practices in clean code and scalable architecture.
 
 - 💬 **Ask Me About:**  
-  Frontend development (React, HTML/CSS, JavaScript), Backend (Node.js), REST APIs, Git, and project structure.
+  Frontend development (React, HTML/CSS, JavaScript), Backend (Node.js,Express), REST APIs, Git, and project structure.
 
 - 🛠️ **Tech I'm Exploring:**  
-  TypeScript, MongoDB, Docker, and testing frameworks like Jest.
+  TypeScript, MongoDB, Docker,ORM, testing frameworks like Jest, RAG and MCP implementation.
 
 - 🎯 **Current Goals:**  
-  Building real-world projects, contributing to open source, and improving problem-solving through DSA.
+  Building real-world projects, contributing to open source, improving problem-solving through DSA and Expanding Knowledge on AI fields.
 
 - 📫 **Reach Me At:**  
   **rahulkarna889@gmail.com**
