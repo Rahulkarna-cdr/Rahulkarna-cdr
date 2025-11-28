@@ -1,7 +1,14 @@
 <h1 align="center">Hi 👋, I'm Rahul Karna</h1>
 <h3 align="center">Engineering student exploring the world of code</h3>
 
+![Octocat](https://octodex.github.com/images/stormtroopocat.png)  
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulkarna-cdr&label=Profile%20views&color=0e75b6&style=flat" alt="rahulkarna-cdr" /> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=38&duration=2600&pause=1000&color=3A8DFF&center=true&vCenter=true&width=850&lines=Turning+Ideas+Into+Code;Passionate+About+Clean+Architecture;Learning+AI+and+RAG+Systems;Crafting+Scalable+Web+Apps;Always+Exploring+New+Technologies" alt="Animated Titles" />
+</p>
+
+
 
 - 🌱 **Currently Learning:**  
   Software Engineering, Full-Stack Development, and best practices in clean code and scalable architecture.
