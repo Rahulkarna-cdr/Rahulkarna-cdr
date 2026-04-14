@@ -7,7 +7,9 @@
 <!-- <p align="center">
   <img src="https://octodex.github.com/images/stormtroopocat.png" width="300" alt="Octocat" />
 </p> -->
+<h3 align="left">Connect with me:</h3>
 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rahul.karna.5891) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rahul_karna_889) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-karna) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rahulkarna889@gmail.com)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulkarna-cdr&label=Profile%20views&color=0e75b6&style=flat" alt="rahulkarna-cdr" /> </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=38&duration=2600&pause=1000&color=3A8DFF&center=true&vCenter=true&width=850&lines=Turning+Ideas+Into+Code;Passionate+About+Clean+Architecture;Building+AI+and+RAG+Systems;Shipping+Production+Grade+Apps;Crafting+Scalable+Web+Apps" alt="Animated Titles" />
@@ -32,11 +34,6 @@
 
 - 🤝 **Open To:**
   Collaborations, open source contributions, and hackathons.
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/rahul-karna/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rahulkarna889/" height="30" width="40" /></a>
-</p>
 
 
 
