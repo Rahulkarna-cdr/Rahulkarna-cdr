@@ -44,9 +44,14 @@
 ## 🔭 Also Working With
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 
+
 # 📊 GitHub Stats:
-![rahulkarna-cdr's Stats](https://github-readme-stats.vercel.app/api?username=rahulkarna-cdr&theme=blueberry&show_icons=true&hide_border=true&count_private=true&rank_icon=github)
-![rahulkarna-cdr's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rahulkarna-cdr&theme=blueberry&hide_border=true)
+![](https://github-readme-stats.shion.dev/api?username=rahulkarna-cdr&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&rank_icon=github)<br/>
+![](https://streak-stats.demolab.com/?user=rahulkarna-cdr&theme=blue_navy&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=rahulkarna-cdr&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 
 
